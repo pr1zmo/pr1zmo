@@ -1,10 +1,10 @@
 <div align="center">
 
-# Zaid Elbassari
+# Zaid
 
 *With a strong foundation in low-level programming at 1337, I've shipped everything from an IRC server to an NLP moderation system — now looking for an internship where I can go further with AI and data.*
 
-[![Email](https://img.shields.io/badge/zaidbassari@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:zaidbassari@gmail.com)
+[![Email](https://img.shields.io/badge/grimstonehalo@gmail.ccom-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:zaidbassari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![42](https://img.shields.io/badge/1337%20|%20UM6P-0a0a0a?style=flat-square&logo=42&logoColor=white)](https://github.com/pr1zmo)
 
